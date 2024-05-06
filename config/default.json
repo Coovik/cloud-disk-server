@@ -1,0 +1,5 @@
+{
+   "serverPort" : 4000,
+   "dbUrl":"mongodb+srv://Coovik:135k4612@cluster0.wkstggx.mongodb.net/",
+   "secretKey":"krovivino"
+}
